@@ -7,6 +7,7 @@ tags:
   - Dartfish 
   - KNES381 
   - Computer Applications
+  - Video Analysis
 ---
 
 This post demonstrates how I analyzed the movement (throw) of a Lacrosse player. <a href="https://www.lacrossemonkey.com/learn/how-to-pass-lacrosse-ball">Visit here for a guide on how to throw/pass a Lacrosse ball!</a>
