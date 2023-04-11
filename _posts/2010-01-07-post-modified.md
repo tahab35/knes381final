@@ -1,10 +1,10 @@
 ---
 title: "Post: Analyzing the throwing technique in lacrosse"
-last_modified_at: 2016-03-09T16:20:02-05:00
+last_modified_at: 2023-04-09T16:20:02-05:00
 categories:
   - Sport 
 tags:
-  - Post Formats
+  - Dartfish 
   - readability
   - standard
 ---
