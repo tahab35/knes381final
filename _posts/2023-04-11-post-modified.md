@@ -10,9 +10,6 @@ tags:
 ---
 
 This post demonstrates how I analyzed the movement (throw) of a Lacrosse player. <a href="https://www.lacrossemonkey.com/learn/how-to-pass-lacrosse-ball">Visit here for a guide on how to throw/pass a Lacrosse ball!</a>
-
-<video width="300" height="480" controls>
-  <source src="https://user-images.githubusercontent.com/110136375/230464067-9e1aaaac-0a55-48bb-bf01-2be9f9f511d0.mp4" type="video/mp4">
   
 <p><b>Pre-Swing</b></p>
   
