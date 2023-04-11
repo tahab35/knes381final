@@ -62,18 +62,18 @@ author:
   avatar : "https://media.licdn.com/dms/image/D5603AQEpRFusxr_Tgg/profile-displayphoto-shrink_800_800/0/1677230346330?e=2147483647&v=beta&t=4y4rWwNWGuXfcmseXB-_xF1eXtMmbtXcyYsfHv0oUI0" 
   bio    : "This website demonstrates the skills I have learned from KNES 381, a Computer Applications class in the Faculty of Kinesiology."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png"
+      url: "https://ca.linkedin.com/in/taha-butt-295771212"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+     # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/tahab35"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/tahab01/"
 
 footer:
   links:
