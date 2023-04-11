@@ -1,5 +1,5 @@
 ---
-title: "Post: Lacrosse: Throwing Technique"
+title: "Post: Lacrosse Throwing Technique"
 last_modified_at: 2023-04-09T16:20:02-05:00
 categories:
   - Sport 
