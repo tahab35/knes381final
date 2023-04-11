@@ -63,7 +63,7 @@ author:
   bio    : "This website demonstrates the skills I have learned from KNES 381, a Computer Applications class in the Faculty of Kinesiology."
   links:
     - label: "Linkedin"
-      icon: "<i class="fa-brands fa-linkedin"></i>"
+      icon: "fa-brands fa-linkedin"
       url: "https://ca.linkedin.com/in/taha-butt-295771212"
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
