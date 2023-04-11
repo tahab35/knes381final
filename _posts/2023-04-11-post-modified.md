@@ -13,7 +13,7 @@ This post demonstrates how I analyzed the movement (throw) of a Lacrosse player.
   
 <p><b>Pre-Swing</b></p>
   
-<img src="https://user-images.githubusercontent.com/110136375/230464031-326d00a2-56ff-499f-b484-e6e839993d0f.jpg" alt="Pre-swing" width="300" height="480" align="center">
+<img src="https://user-images.githubusercontent.com/110136375/230464031-326d00a2-56ff-499f-b484-e6e839993d0f.jpg" alt="Pre-swing" width="600" height="960" align="center">
   
 <p><b>Swing Setup</b></p>
   
