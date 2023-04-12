@@ -7,6 +7,7 @@ tags:
   - Excel Spreadsheet
   - Data Processing 
   - KNES 381
+  - KNES 355
   - Computer Applications 
 ---
 
