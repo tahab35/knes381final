@@ -5,7 +5,7 @@ categories:
   - Sport 
 tags:
   - Dartfish 
-  - KNES381 
+  - KNES 381 
   - Computer Applications
   - Video Analysis
 ---
